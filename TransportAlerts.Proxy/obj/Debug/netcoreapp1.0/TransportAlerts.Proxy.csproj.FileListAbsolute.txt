@@ -1,0 +1,8 @@
+C:\development\TransportAlerts.Proxy\bin\Debug\netcoreapp1.0\TransportAlerts.Proxy.deps.json
+C:\development\TransportAlerts.Proxy\bin\Debug\netcoreapp1.0\TransportAlerts.Proxy.runtimeconfig.json
+C:\development\TransportAlerts.Proxy\bin\Debug\netcoreapp1.0\TransportAlerts.Proxy.runtimeconfig.dev.json
+C:\development\TransportAlerts.Proxy\bin\Debug\netcoreapp1.0\TransportAlerts.Proxy.dll
+C:\development\TransportAlerts.Proxy\bin\Debug\netcoreapp1.0\TransportAlerts.Proxy.pdb
+C:\development\TransportAlerts.Proxy\obj\Debug\netcoreapp1.0\TransportAlerts.Proxy.AssemblyInfo.cs
+C:\development\TransportAlerts.Proxy\obj\Debug\netcoreapp1.0\TransportAlerts.Proxy.dll
+C:\development\TransportAlerts.Proxy\obj\Debug\netcoreapp1.0\TransportAlerts.Proxy.pdb
